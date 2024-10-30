@@ -1,0 +1,23 @@
+.uac-about {
+	border: 1px solid #ddd;
+	padding: 20px;
+	background-color: #f0f0f0;
+	height: 250px;
+}
+
+.uac-shortcode-input {
+	width: 325px;
+}
+
+#uac-instructions {
+	background-color: #f0f0f0;
+	border: 1px solid #e0e0e0;
+	margin-top: 20px;
+	padding-left: 20px;
+	color: #777;
+}
+
+#uac-instructions li{
+	list-style: square;
+	margin: 0 0 10px 13px;
+}
